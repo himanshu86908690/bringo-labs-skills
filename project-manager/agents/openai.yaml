@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Manager"
+  short_description: "Plan projects, guide delivery, and prepare ClickUp tasks"
+  default_prompt: "Use $project-manager to clarify my project, draft a practical delivery plan, and prepare a Markdown plan with ClickUp task exports."
