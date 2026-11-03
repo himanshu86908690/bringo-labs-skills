@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Strategist"
+  short_description: "Build clear positioning, messaging, and brand identity"
+  default_prompt: "Use $brand-strategist to understand my business, diagnose its brand challenges, and build an evidence-led strategy with messaging, identity direction, and an actionable validation plan."
