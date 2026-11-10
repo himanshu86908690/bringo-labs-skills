@@ -8,6 +8,7 @@ Reusable AI workflows for business strategy and execution.
 | --- | --- | --- |
 | Brand Strategist | Research and diagnose brand challenges; develop positioning, messaging, identity direction, and implementation plans. | [brand-strategist/SKILL.md](brand-strategist/SKILL.md) |
 | Project Manager | Existing project-management workflow. | [project-manager](project-manager/) |
+| Website Strategist | Research, plan, write, design, build, audit, and optimize conversion-focused websites and landing pages. | [website-strategist/SKILL.md](website-strategist/SKILL.md) |
 
 ## Brand Strategist
 
