@@ -25,6 +25,10 @@ description: "Run, resume, or launch a complete landing page project. Coordinate
 | Launch | lp-orchestrator with lp-developer | Confirm authorization and target, save rollback details, deploy, then repeat the journey on the live campaign URL before sending traffic. Hand over the URL, editable access, QA evidence, metric definitions, follow-up and content owners, and the first review date. |
 | Learn | lp-cro-auditor | Establish a baseline for submissions and downstream outcomes where observed. Prioritize a measured improvement and set a review date. |
 
+## Apply the upstream methods during execution
+
+Use the specialist's concrete review steps at its milestone. Carry the existing marketing context into strategy, require a brand-grounded design handoff, and capture interface, measurement, and conversion evidence before launch. The [source routing map](references/source-routing.md) identifies deeper guidance by task. If a reference is unavailable, apply the bundled steps and report only checks you could execute.
+
 ## Keep decisions current
 
 For a focused edit, run the relevant specialist and only the downstream checks the edit affects. An offer or CTA change can affect copy, design, submission behavior, and event definitions. A presentation-only edit typically needs visual and accessibility checks. Update the brief and reopen affected milestones using evidence.

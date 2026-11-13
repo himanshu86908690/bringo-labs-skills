@@ -11,3 +11,9 @@ description: "Build, fix, stage, or deploy a landing page and its form, booking,
 4. Test narrow and wide viewports, links, keyboard, invalid input, success, failure, retry, duplicate protection, receiving records, assignment, and notifications as applicable. Give lp-tracking the supported test route and evidence. Label mock-only results.
 5. Review source with [Vercel Web Interface Guidelines](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md). Apply [Vercel React guidance](https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md) to React or Next.js. Use [Addy Osmani Web Quality Audit](https://github.com/addyosmani/web-quality-skills/blob/main/skills/web-quality-audit/SKILL.md) for measured performance and accessibility. Distinguish lab, field, and inspection evidence.
 6. Deliver the staging URL or preview, test evidence, and limitations. On authorized launch, preserve rollback, deploy to the approved target, and verify the complete journey on the live entry link.
+
+## Review and measure the built experience
+
+Review the affected code for semantic controls, keyboard and focus behavior, field labels and autocomplete, clear errors, touch interaction, and reduced motion. For React or Next.js, inspect data-fetching waterfalls, client bundle cost, and avoidable rendering before applying stack-specific changes.
+
+Run a representative mobile and desktop browser pass. Use Lighthouse or a browser trace when available, and capture the URL, viewport, conditions, and failing element or trace. Use field data where available and identify whether it describes the URL or the origin. Diagnose the largest observed loading, responsiveness, or layout-shift problem, then rerun the same check after the fix. Record manual accessibility checks and label gaps when the browser or measurement tools are unavailable.

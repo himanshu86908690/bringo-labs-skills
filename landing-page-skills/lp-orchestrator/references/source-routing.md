@@ -1,6 +1,6 @@
 # Upstream source routing
 
-Use the client brief for project facts and this stack for decisions and handoffs. Consult the relevant upstream skill for specialist methods. Use an installed copy when available or read the linked source when needed. Keep moving with the local procedure if a source is unavailable and report that limitation when it affects the work. These are references, with no external installation required.
+Use the client brief for project facts and this stack for decisions and handoffs. Consult the relevant upstream skill for specialist methods. Use an installed copy when available or read the linked source when needed. Keep moving with the local procedure if a source is unavailable and report that limitation when it affects the work. The specialist instructions include the core procedures. Upstream sources supply deeper methods and examples. Local checklists, source review, browser checks, and destination records can be used with the tools already available.
 
 | Source | Owner and use |
 | --- | --- |

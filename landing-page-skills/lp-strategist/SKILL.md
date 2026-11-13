@@ -13,3 +13,7 @@ description: "Define the conversion strategy for a landing page. Use for audienc
 6. Deliver the conversion brief, updating an existing shared brief where available. Include audience, traffic message, offer, positioning, objections, approved evidence, CTA, receiving owner, success definition, constraints, and unresolved decisions. Make the reasoning behind the major choices visible.
 
 For a course enquiry, the initial page outcome is an accepted enquiry. Evaluate quality once sales applies a documented criterion. Treat enrollment as measurable only when a downstream record can be connected. Avoid assumptions about placement, salaries, credentials, dates, or prerequisites in publishable claims.
+
+## Apply the marketing context
+
+Reuse the project's existing product or marketing brief and prior campaign learnings before asking for inputs. Mark angles as supported, proposed, or previously tested. Keep the traffic promise, priority objection, defensible claim, and conversion goal together so copy, tracking, and CRO use the same decision. If evidence suggests traffic fit or sales follow-up is the main problem, identify the observation that would distinguish it from a page problem.

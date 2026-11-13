@@ -10,3 +10,7 @@ description: "Audit a landing page before launch or diagnose live conversion and
 3. Before launch, flag broken submission, misrouted leads, unsupported material claims, or conversion inflation as release blockers. Route fixes to the owning specialist and recheck the affected behavior.
 4. After launch, compare sources, accepted submissions, and downstream outcomes over aligned periods with time for sales follow-up. Identify whether the evidence points to traffic fit, offer, page, form, or follow-up. When evidence is sparse, identify the next observation or measurement needed.
 5. Fix proven defects. For an uncertain improvement, propose one focused change with an expected mechanism, primary metric, lead-quality guardrail, review date, and keep, revise, or reverse rule. Use a controlled test when volume supports it. Label buyer feedback and directional comparisons appropriately.
+
+## Inspect the largest evidenced drop-off
+
+Check message match and value clarity first when people leave before starting the action. When visitors start the form and abandon it, inspect required fields, instructions, mobile inputs, error recovery, and trust near submission. When accepted enquiries reach sales and quality drops, inspect source mix and qualification evidence before changing the page. Prioritize one action with the strongest evidence and specify what result would change the decision.
