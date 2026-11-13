@@ -17,11 +17,11 @@ description: "Run, resume, or launch a complete landing page project. Coordinate
 | Stage | Skill | Evidence to advance |
 | --- | --- | --- |
 | Strategy | lp-strategist | Priority audience, traffic message, offer, proof status, one primary action, and success definition are documented. |
-| Measurement plan | lp-tracking | Event triggers, attribution, receiving system, outcome owner, and test steps are defined before implementation. |
+| Measurement plan | lp-tracking | Confirm the primary action, receiving destination, and acceptance signal before finalizing CTA copy. Define attribution, owner, and test steps before implementation. |
 | Copy | lp-content | Complete page copy and action flow trace back to the brief. Claims are supported or excluded from publishable copy. |
-| Design | lp-designer | Mobile and desktop decisions cover hierarchy, proof, action flow, and form states. |
+| Design | lp-designer | For a new or redesigned hero, render it with real copy and a focal element tied to the offer. Inspect and revise at mobile and desktop widths before building the rest. Record proof placement and action states. |
 | Build | lp-developer | Staging works through the normal user entry point. Success, error, retry, and duplicate behavior are checked. |
-| Verify | lp-tracking and lp-cro-auditor | Trace a test through the actual receiving system where available. Recheck offer, claims, terms, CTA, action path, notifications, accessibility, performance, privacy, and applicable redirects or indexing. Resolve release blockers. |
+| Verify | lp-tracking and lp-cro-auditor | Trace a test through the actual receiving system where available. Recheck offer, claims, terms, CTA, action path, notifications, accessibility, performance, privacy, and applicable redirects or indexing. Record release blockers and assign the handoff status below. |
 | Launch | lp-orchestrator with lp-developer | Confirm authorization and target, save rollback details, deploy, then repeat the journey on the live campaign URL before sending traffic. Hand over the URL, editable access, QA evidence, metric definitions, follow-up and content owners, and the first review date. |
 | Learn | lp-cro-auditor | Establish a baseline for submissions and downstream outcomes where observed. Prioritize a measured improvement and set a review date. |
 
@@ -63,6 +63,14 @@ Apply the relevant principles and record decisions in the project brief.
 - Before generating layouts, specify the priority audience, pain, desired outcome, approved proof, exact CTA, palette, typography, spacing, visual priorities, and motion limits. Use real content. Review whether each major visual choice helps visitors understand the offer, trust the evidence, or take the next step.
 - Before marking visual QA complete, inspect the rendered page on mobile and desktop. Check the first screen, CTA and proof placement, text wrapping, contrast, focus, and the complete action flow. Record the viewports and findings. When rendering or buyer validation is unavailable, mark the affected check as pending.
 - Report lift only when comparable project data supports it. Treat results from other businesses as hypotheses.
+
+## Handoff status
+
+- **Preview.** A draft, prototype, or implemented page with any required staging check outstanding. Name the outstanding checks, including unavailable access or a simulated receiver.
+- **Staging verified.** The rendered staging page passed mobile and desktop QA, and a test action reached the agreed receiver with the expected confirmation and conversion count where tracking is in scope.
+- **Ready to launch.** Staging is verified, release blockers are resolved, and the approved production target, configuration, and rollback are ready. Follow existing launch authorization. Verify the live path separately after deployment before sending traffic.
+
+Record the evidence and pending checks with an owner. If browser access is unavailable, continue authorized build work and keep rendered QA pending.
 
 ## Keep decisions current
 

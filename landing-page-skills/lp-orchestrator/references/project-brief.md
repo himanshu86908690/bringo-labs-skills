@@ -7,9 +7,9 @@ Keep a single current record in the project's existing workspace. Link artifacts
 - Offer and terms, primary action, expected post-action experience.
 - Claims with evidence, permission, and status. Mark unverified material separately.
 - Success metric, page event, downstream outcomes, and qualification criteria where relevant.
-- Receiving system, record owner, required fields, attribution, and test destination.
+- Primary action contract: visitor action, receiving system, acceptance signal, confirmation copy, approved fallback if needed, required fields, record owner, attribution, and test destination.
 - Selected stack, approved brand assets, design constraints, and access gaps.
-- Current phase, artifacts, evidence, unresolved decisions, approvals, next owner.
+- Current phase, artifacts, handoff status, QA evidence with viewport and environment, outstanding checks and owners, unresolved decisions, and approvals.
 - Release URL, rollback location, smoke-test outcome, first review date.
 
 ## Education enquiry example
