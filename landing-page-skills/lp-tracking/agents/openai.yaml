@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Tracking"
+  short_description: "Plan and verify conversion measurement"
+  default_prompt: "Use $lp-tracking to verify this form and its conversion tracking."

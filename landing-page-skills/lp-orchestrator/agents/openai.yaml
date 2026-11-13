@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Orchestrator"
+  short_description: "Run a landing page project from brief to launch"
+  default_prompt: "Use $lp-orchestrator to run this landing page project from brief to staging."

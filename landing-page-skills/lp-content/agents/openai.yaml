@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Content"
+  short_description: "Write the page copy and complete action flow"
+  default_prompt: "Use $lp-content to write the page copy and enquiry flow from this brief."

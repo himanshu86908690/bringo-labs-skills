@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Designer"
+  short_description: "Design a responsive page and its action flow"
+  default_prompt: "Use $lp-designer to design a mobile-first page from this approved copy."

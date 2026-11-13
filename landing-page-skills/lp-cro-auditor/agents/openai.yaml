@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page CRO Auditor"
+  short_description: "Diagnose conversion friction and lead quality"
+  default_prompt: "Use $lp-cro-auditor to audit this landing page and prioritize fixes."

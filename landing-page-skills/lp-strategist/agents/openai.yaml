@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Strategist"
+  short_description: "Define the offer, audience, and conversion goal"
+  default_prompt: "Use $lp-strategist to turn this campaign brief into a conversion strategy."
