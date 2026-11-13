@@ -29,6 +29,43 @@ description: "Run, resume, or launch a complete landing page project. Coordinate
 
 Use the specialist's concrete review steps at its milestone. Carry the existing marketing context into strategy, require a brand-grounded design handoff, and capture interface, measurement, and conversion evidence before launch. The [source routing map](references/source-routing.md) identifies deeper guidance by task. If a reference is unavailable, apply the bundled steps and report only checks you could execute.
 
+## Landing page design principles
+
+Apply the relevant principles during strategy, copy, design, build, and verification. Record the decisions in the project brief so specialists can build and check the same experience.
+
+### 1. Mirror Test — copy and messaging
+
+- Write the first screen around **Person, Pain, Promise**. Name the intended visitor, reflect the problem that brought them here, and give them a credible reason to act. Make the offer, benefit, and one primary next step clear.
+- Use actual customer language from sales notes, interviews, search terms, or campaign copy. Match the headline to the visitor’s entry message and intent. Translate features into outcomes and support consequential claims with evidence. Label inferred buyer language as a working assumption.
+- Read the mobile first screen at a representative width. When target visitors are available, ask them to explain who the page serves, what they get, and what they would do next without coaching. Use observed behavior and conversion data to guide revisions.
+
+### 2. Highlighter Rule — color and hierarchy
+
+- Specify exact brand color values and roles for the background, structure, text, and action. Use one accent to mark the primary CTA and a few details that genuinely help people navigate or decide.
+- Use 60–30–10 as a composition guide for dominant background, supporting structure, and accent. Adjust to fit the brand and keep text, controls, and focus states readable. Check that the CTA is easy to pick out in the first viewport.
+
+### 3. Front–Middle–Back — depth and composition
+
+- Give the hero a back layer for relevant imagery or a restrained graphic, a middle layer for the message and proof, and a front layer for the primary action. Use size, spacing, alignment, and contrast to establish those roles.
+- Use overlap or soft shadow selectively when it helps separate layers. Vary section composition by its job. Check on narrow and wide screens that layers preserve reading order, legibility, and access to the CTA.
+- For a layered hero or a scroll-led demonstration, consult [ScrollCraft](https://github.com/nateherkai/scroll-craft/blob/main/plugins/nateherk-design/skills/scroll-craft/SKILL.md) for typography, spacing, depth, and responsive scroll composition. Apply the guidance that serves the visitor’s task. The principles here work independently of the upstream skill.
+
+### 4. Motion With a Job — animation
+
+- Give each animation a specific purpose, such as demonstrating the product, explaining a transition, or drawing attention to an important change. Use at most one dominant animated element per viewport. Keep the headline, offer, and CTA available on first render.
+- Use scroll effects only where they help explain something. Honor `prefers-reduced-motion` with a complete static state. Provide a pause or motion toggle when the experience warrants it. Test both motion settings and remove effects that interfere with reading, input, or navigation.
+
+### 5. Free Sample — interactive value
+
+- Start with one purchase question prospects actually ask. If a short quiz, estimator, or tool can answer it better than static copy, show a useful result immediately using the smallest set of inputs. Explain key assumptions for any estimate.
+- Keep the primary conversion path accessible alongside the tool. Verify calculations, invalid input, empty states, keyboard access, and mobile behavior before release. Skip the tool when it adds effort without resolving a real decision.
+
+### 6. AI execution — brief, build, verify
+
+- Before generating layouts, specify the priority audience, pain, desired outcome, approved proof, exact CTA, palette, typography, spacing, visual priorities, and motion limits. Use real content. Review whether each major visual choice helps visitors understand the offer, trust the evidence, or take the next step.
+- Before marking visual QA complete, inspect the rendered page on mobile and desktop. Check the first screen, CTA and proof placement, text wrapping, contrast, focus, and the complete action flow. Record the viewports and findings. When rendering or buyer validation is unavailable, mark the affected check as pending.
+- After launch, review the primary conversion and downstream quality with the agreed baseline and reporting window. Use examples from other businesses as design hypotheses. Report lift only when the project’s own data supports it.
+
 ## Keep decisions current
 
 For a focused edit, run the relevant specialist and only the downstream checks the edit affects. An offer or CTA change can affect copy, design, submission behavior, and event definitions. A presentation-only edit typically needs visual and accessibility checks. Update the brief and reopen affected milestones using evidence.
