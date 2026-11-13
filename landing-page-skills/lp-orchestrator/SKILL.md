@@ -25,13 +25,11 @@ description: "Run, resume, or launch a complete landing page project. Coordinate
 | Launch | lp-orchestrator with lp-developer | Confirm authorization and target, save rollback details, deploy, then repeat the journey on the live campaign URL before sending traffic. Hand over the URL, editable access, QA evidence, metric definitions, follow-up and content owners, and the first review date. |
 | Learn | lp-cro-auditor | Establish a baseline for submissions and downstream outcomes where observed. Prioritize a measured improvement and set a review date. |
 
-## Apply the upstream methods during execution
-
-Use the specialist's concrete review steps at its milestone. Carry the existing marketing context into strategy, require a brand-grounded design handoff, and capture interface, measurement, and conversion evidence before launch. The [source routing map](references/source-routing.md) identifies deeper guidance by task. If a reference is unavailable, apply the bundled steps and report only checks you could execute.
+Use the [source routing map](references/source-routing.md) when a specialist needs deeper guidance.
 
 ## Landing page design principles
 
-Apply the relevant principles during strategy, copy, design, build, and verification. Record the decisions in the project brief so specialists can build and check the same experience.
+Apply the relevant principles and record decisions in the project brief.
 
 ### 1. Mirror Test — copy and messaging
 
@@ -64,7 +62,7 @@ Apply the relevant principles during strategy, copy, design, build, and verifica
 
 - Before generating layouts, specify the priority audience, pain, desired outcome, approved proof, exact CTA, palette, typography, spacing, visual priorities, and motion limits. Use real content. Review whether each major visual choice helps visitors understand the offer, trust the evidence, or take the next step.
 - Before marking visual QA complete, inspect the rendered page on mobile and desktop. Check the first screen, CTA and proof placement, text wrapping, contrast, focus, and the complete action flow. Record the viewports and findings. When rendering or buyer validation is unavailable, mark the affected check as pending.
-- After launch, review the primary conversion and downstream quality with the agreed baseline and reporting window. Use examples from other businesses as design hypotheses. Report lift only when the project’s own data supports it.
+- Report lift only when comparable project data supports it. Treat results from other businesses as hypotheses.
 
 ## Keep decisions current
 
@@ -72,4 +70,4 @@ For a focused edit, run the relevant specialist and only the downstream checks t
 
 Proceed autonomously with research, drafts, code, staging, and reversible tests within the authorized scope. Apply authorization already given for publication. Confirm an unresolved offer, permission to use material claims, or live launch only when the decision is necessary and still open. Do not treat a simulated integration, preview, or tool inspection as live verification. Do not contact client leads as part of a test. Use a designated test route or clearly marked test record.
 
-At handoff, give the current status, artifact locations, evidence, material assumptions, and any remaining action with an owner. Use the [source routing map](references/source-routing.md) to select upstream guidance when needed.
+At handoff, give the current status, artifact locations, evidence, material assumptions, and any remaining action with an owner.
